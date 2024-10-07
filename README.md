@@ -1,0 +1,1 @@
+# gpsPhoto360Policy
